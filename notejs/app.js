@@ -62,7 +62,7 @@ search.addEventListener("input", function() {
 
     let inputVal = search.value.toLowerCase();
     
-    let noteCards = document.getElementsByClassName('noteCard');
+    let noteCards = document.getElementsByClassName('note');
     Array.from(noteCards).forEach(function(element){
         let cartTxt = element.getElementsByTagName("p")[0].innerText;
         if(cartTxt.includes(inputVal)){
