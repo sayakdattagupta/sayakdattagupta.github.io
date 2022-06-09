@@ -4,11 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Notes App</title>
+    <title>notejs</title>
     <link rel="stylesheet" href="CSS/styles.css">
   </head>
   <body>
     <div class="navbar">
+      <h1 style="font-size:50px">notejs</h1>
       <form>
         <input
           id="searchTxt"
@@ -16,18 +17,14 @@
           placeholder="Search"
           aria-label="Search"
         />
-        <button type="submit">
-          Search
-        </button>
       </form>
     </div>
+    <br>
     <div>
-      <h1>Welcome to Notes</h1>
-      <div>
+      <div class="addArea">
         <div>
-          <h5>Add a Note</h5>
           <div>
-            <textarea id="addTxt"></textarea>
+            <textarea id="addTxt">Add a Note</textarea>
           </div>
           <br />
           <button id="addBtn">Add Note</button>

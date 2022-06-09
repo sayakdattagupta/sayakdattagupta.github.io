@@ -13,13 +13,15 @@
 .note
 {
     border-radius: 5px;
-    background-color: #edca00;
+    border-style:solid;
+    border-color: black;
+    background-color: #EEEEEE;
     width:18rem;
 }
 
 .note:hover
 {
-    background-color: #FBC02D;
+    background-color: #E0E0E0;
 }
 
 .notein
@@ -50,6 +52,21 @@
     font-size: 25px;
 }
 
+.addArea button
+{
+    border: 0ch;
+    border-radius: 5px;
+    padding: 2%;
+    background-color: #424242;
+    font-family: 'Roboto';
+    color: white;
+}
+
+.addArea button:hover
+{
+    background-color: #212121;
+}
+
 h1
 {
     font-family: 'RobotoB';
@@ -69,6 +86,20 @@ h5
 {
     background-color: #EEEEEE;
     padding-top: 6.25%;
+}
+
+.navbar input
+{
+    font-size: 25px;
+    border-radius: 5px;
+    border:0px;
+    background-color: #EEEEEE;
+}
+
+.navbar input:active
+{
+    border:0px;
+    outline:none;
 }
 
 body
