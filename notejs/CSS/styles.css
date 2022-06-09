@@ -60,11 +60,27 @@
     background-color: #424242;
     font-family: 'Roboto';
     color: white;
+    margin-left: 25px;
 }
 
 .addArea button:hover
 {
     background-color: #212121;
+}
+
+.addArea textarea
+{
+    font-size: 20px;
+    float:left;
+    font-family: 'Roboto';
+    background-color: #EEEEEE;
+    outline: none;
+    border:0px;
+}
+
+.addArea textarea:active,textarea:hover
+{
+    background-color: #E0E0E0;
 }
 
 h1
@@ -119,5 +135,11 @@ body
     .note
     {
         width:22.5rem;
+    }
+
+    .addArea button
+    {
+        font-size: 27.5px;
+        margin-left: 5px;
     }
 }
