@@ -24,8 +24,8 @@
       <div class="addArea">
         <div>
           <div>
-            <textarea id="addTxt">Add a Note</textarea>
-            <button button id="addBtn">Add Note</button>
+            <textarea id="addTxt" onkeyup="if(this.value.length > 0) document.getElementById('addBtn').disabled = false; else document.getElementById('addBtn').disabled = true;">Add a Note</textarea>
+            <input type="button" value="Add Note" id="addBtn" disabled/>
           </div>
         </div>
       </div> <br/> <br/>

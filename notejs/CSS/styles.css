@@ -52,7 +52,7 @@
     font-size: 25px;
 }
 
-.addArea button
+.addArea input
 {
     border: 0ch;
     border-radius: 5px;
@@ -63,7 +63,7 @@
     margin-left: 25px;
 }
 
-.addArea button:hover
+.addArea input:hover
 {
     background-color: #212121;
 }
