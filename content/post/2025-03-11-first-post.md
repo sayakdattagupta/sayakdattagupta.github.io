@@ -7,7 +7,5 @@ author: Sayak Dattagupta
 Hi!
 This is my first post!
 
-this place is empty and desolate. enjoy this
-
-![sad](https://i.imgflip.com/9gnno0.jpg?a483504)
+![beweildered](https://i.ibb.co/vvvN26hp/IMG-20250311-133000.jpg)
 

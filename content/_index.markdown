@@ -14,4 +14,4 @@ In the words of [Xie](https://github.com/yihui), the creator of this theme:
 
 $${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$
 
-# this site is currently WIP
+## this site is currently WIP
