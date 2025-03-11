@@ -1,6 +1,6 @@
 baseurl: "https://sayakdattagupta.github.io/"  # please update this to your actual URL
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Sayak Dattagupta"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -25,12 +25,10 @@ menu:
     - name: Tags
       url: "tags/"
       weight: 4
-    - name: Subscribe
-      url: "index.xml"
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Sayak Dattagupta](https://linkedin.com/sayak-dattagupta) 2025 -- {Year} | [Github](https://github.com/sayakdattagupta)"
+  description: "Blog"
+  footer: "&copy; [Sayak Dattagupta](https://sayakdattagupta.github.io) 2024 -- {Year} | [Github](https://github.com/sayakdattagupta)"
 
 markup:
   highlight:
