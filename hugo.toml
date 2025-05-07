@@ -1,8 +1,0 @@
-baseURL = "https://sayakdattagupta.github.io/"
-languageCode = "en-us"
-title = "Sayak Dattagupta"
-theme = "xmin"
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
