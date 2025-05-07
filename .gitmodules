@@ -1,6 +1,0 @@
-[submodule "themes/XMin"]
-	path = themes/XMin
-	url = https://github.com/yihui/hugo-xmin.git
-[submodule "themes/hugo-xmin"]
-	path = themes/hugo-xmin
-	url = https://github.com/yihui/hugo-xmin.git
