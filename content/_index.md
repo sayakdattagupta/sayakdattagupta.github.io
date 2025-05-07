@@ -15,23 +15,23 @@ In an ever-growing internet full of slop, it is **our** responsibility to popula
 section     .text
 
 extern printf
-global      _start                              ; Entry point for the program
+global      _start
 
-_start:                                         ; Start of the program
+_start:
 
-    mov     edx,len                             ; Calculate message length
-    mov     ecx,msg                             ; Load address of message
-    mov     ebx,1                               ; File descriptor (stdout)
-    mov     eax,4                               ; System call number (sys_write)
-    int     0x80                                ; Call kernel to display message
+    mov     edx,len
+    mov     ecx,msg
+    mov     ebx,1
+    mov     eax,4
+    int     0x80
 
-    mov     eax,1                               ; System call number (sys_exit)
-    int     0x80                                ; Call kernel to exit program
+    mov     eax,1
+    int     0x80
 
 section     .data
 
-msg     db  'Hi!',10                    ; Our message with a newline
-len     equ $ - msg                             ; Calculate length of message
+msg     db  'Hi!',10
+len     equ $ - msg
 ```
 
 This page has Math, Science, Programming and my Thoughts.
