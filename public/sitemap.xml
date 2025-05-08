@@ -2,30 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sayakdattagupta.github.io/categories/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/first-post/</loc>
+    <loc>https://sayakdattagupta.github.io/tags/first-post/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sayakdattagupta.github.io/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://sayakdattagupta.github.io/post/2025/05/07/my-first-post/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025/05/07/my-first-post/</loc>
+    <loc>https://sayakdattagupta.github.io/post/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://sayakdattagupta.github.io/tags/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sayakdattagupta.github.io/categories/thoughts/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/thoughts/</loc>
-    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+    <loc>https://sayakdattagupta.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://sayakdattagupta.github.io/reading/</loc>
   </url>
 </urlset>

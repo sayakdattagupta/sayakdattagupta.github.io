@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sayak Dattagupta</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://sayakdattagupta.github.io/categories/</link>
     <description>Recent content in Categories on Sayak Dattagupta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sayakdattagupta.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts</title>
-      <link>http://localhost:1313/categories/thoughts/</link>
+      <link>https://sayakdattagupta.github.io/categories/thoughts/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/thoughts/</guid>
+      <guid>https://sayakdattagupta.github.io/categories/thoughts/</guid>
       <description></description>
     </item>
   </channel>

@@ -10,9 +10,12 @@ body {
   .menu li { display: inline-block; }
   .article-meta, .menu a {
     text-decoration: none;
-    background: #eee;
+    background: #ffffff;
     padding: 5px;
     border-radius: 5px;
+  }
+  .menu a {
+    background: #eee;
   }
   .menu, .article-meta, footer { text-align: center; }
   .title { font-size: 1.1em; }
@@ -33,7 +36,7 @@ body {
   pre code { background: none; }
   
   /* misc elements */
-  img, iframe, video { max-width: 100%; }
+  img, iframe, video { max-width: 70vw; }
   main { hyphens: auto; }
   blockquote {
     background: #f9f9f9;
@@ -50,8 +53,9 @@ body {
   th, td { padding: 5px; }
   thead, tfoot, tr:nth-child(even) { background: #eee; }
  
-@media (min-width: 768px) {
+@media (min-width: 640px) {
     body {
         max-width: 75%; 
     }
+    img, iframe, video { max-width: 45vw; }
 }

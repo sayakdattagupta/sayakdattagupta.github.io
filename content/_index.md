@@ -2,14 +2,14 @@
 title: Home
 ---
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/sayakdattagupta/sayakdattagupta.github.io)
+[<img src="https://avatars.githubusercontent.com/u/105037211?v=4" style="max-width:20%;min-width:40px;float:right;border-radius:50%;" alt="Github repo" />](https://github.com/sayakdattagupta/sayakdattagupta.github.io)
 
 # Sayak Dattagupta
 
-## ^ ...is no longer an internet peasant!
+## ...is no longer an internet peasant!
 
 aka, this is **my** site <br>
-In an ever-growing internet full of slop, it is **our** responsibility to populate it with decent content.
+In an ever-growing internet full of slop, I have decided to cut to the chase and become landed gentry on the internet.
 
 ```assembly
 section     .text
@@ -34,8 +34,14 @@ msg     db  'Hi!',10
 len     equ $ - msg
 ```
 
-This page has Math, Science, Programming and my Thoughts.
+_I don't know what any of that means._
+
+This site has (will have) math, science, programming and my thoughts.
 
 Check this LaTeX compatibility out!
 
 $${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$
+
+_Again, I don't know what any of that means._
+
+Check out my [reading list!](reading/)

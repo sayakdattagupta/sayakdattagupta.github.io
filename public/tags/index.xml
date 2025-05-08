@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sayak Dattagupta</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://sayakdattagupta.github.io/tags/</link>
     <description>Recent content in Tags on Sayak Dattagupta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sayakdattagupta.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First-Post</title>
-      <link>http://localhost:1313/tags/first-post/</link>
+      <link>https://sayakdattagupta.github.io/tags/first-post/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://sayakdattagupta.github.io/tags/first-post/</guid>
       <description></description>
     </item>
   </channel>

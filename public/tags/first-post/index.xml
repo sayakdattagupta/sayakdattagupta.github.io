@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>First-Post on Sayak Dattagupta</title>
-    <link>http://localhost:1313/tags/first-post/</link>
+    <link>https://sayakdattagupta.github.io/tags/first-post/</link>
     <description>Recent content in First-Post on Sayak Dattagupta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/first-post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sayakdattagupta.github.io/tags/first-post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/post/2025/05/07/my-first-post/</link>
+      <link>https://sayakdattagupta.github.io/post/2025/05/07/my-first-post/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025/05/07/my-first-post/</guid>
-      <description>&lt;p&gt;A historic first post.&lt;/p&gt;</description>
+      <guid>https://sayakdattagupta.github.io/post/2025/05/07/my-first-post/</guid>
+      <description>&lt;p&gt;A historic first post.&lt;br&gt;&#xA;This is an image of Prophet Moses.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/ZzTzQJ87/Prophet-Moses.jpg&#34; alt=&#34;moses&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the totally uninitiated, he split the sea into two.&lt;/p&gt;&#xA;&lt;p&gt;What does this have to do with this site? Nothing! I will populate the site with content soon.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
