@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sayak Dattagupta</title>
-    <link>https://sayakdattagupta.github.io/post/</link>
-    <description>Recent content in Posts on Sayak Dattagupta</description>
+    <title>Tech on Sayak Dattagupta</title>
+    <link>https://sayakdattagupta.github.io/tags/tech/</link>
+    <description>Recent content in Tech on Sayak Dattagupta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sayakdattagupta.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sayakdattagupta.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shun YouTube on Android, use NewPipe</title>
       <link>https://sayakdattagupta.github.io/post/2025/05/08/shun-youtube-on-android-use-newpipe/</link>

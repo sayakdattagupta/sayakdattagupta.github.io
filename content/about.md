@@ -10,4 +10,4 @@ Debating has always sparked my interest, and I’ve been an active member of the
 
 Currently, I’m interested in pursuing my undergraduate studies in mechanical or aerospace engineering.
 
-**This site is made in Hugo, using the theme hugo-xmin.**
+**This site is made in Hugo, using the theme hugo-xmin.** It has further been tastefully modified by me in order to incorporate responsiveness and a reading list.

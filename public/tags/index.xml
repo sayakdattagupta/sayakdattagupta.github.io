@@ -6,13 +6,27 @@
     <description>Recent content in Tags on Sayak Dattagupta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sayakdattagupta.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First-Post</title>
-      <link>https://sayakdattagupta.github.io/tags/first-post/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://sayakdattagupta.github.io/tags/first-post/</guid>
+      <title>Open-Source</title>
+      <link>https://sayakdattagupta.github.io/tags/open-source/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://sayakdattagupta.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://sayakdattagupta.github.io/tags/tech/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://sayakdattagupta.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youtube</title>
+      <link>https://sayakdattagupta.github.io/tags/youtube/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://sayakdattagupta.github.io/tags/youtube/</guid>
       <description></description>
     </item>
   </channel>

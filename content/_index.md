@@ -8,8 +8,10 @@ title: Home
 
 ## ...is no longer an internet peasant!
 
-aka, this is **my** site <br>
+aka, this is **my** site. <br><br>
 In an ever-growing internet full of slop, I have decided to cut to the chase and become landed gentry on the internet.
+
+_The Internet doesn't exist purely for consumption._
 
 ```assembly
 section     .text
@@ -34,14 +36,8 @@ msg     db  'Hi!',10
 len     equ $ - msg
 ```
 
-_I don't know what any of that means._
+_I barely know what any of that means._
 
 This site has (will have) math, science, programming and my thoughts.
-
-Check this LaTeX compatibility out!
-
-$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$
-
-_Again, I don't know what any of that means._
 
 Check out my [reading list!](reading/)

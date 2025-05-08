@@ -4,7 +4,7 @@ type: page
 layout: reading-list
 ---
 
-Here are some books that I am reading/have read. I will keep updating it regularly.
+Here are some books that I am reading/have read. This list is incomplete, and doesn't even have plenty of old books that I have read, but I will keep updating it whenever possible.
 
 ## 2024
 
@@ -57,7 +57,7 @@ Here are some books that I am reading/have read. I will keep updating it regular
     </div>
         <div class="book">
         <img src="https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg" class="cover">
-        <p><em>Because everyone reads it.</em><p>
+        <p><em>Because nearly everyone has read it.</em><p>
     </div>
 </div>
 
@@ -86,6 +86,6 @@ Here are some books that I am reading/have read. I will keep updating it regular
     </div>
     <div class="book">
         <img src="https://covers.openlibrary.org/b/isbn/9781416573609-L.jpg" class="cover">
-        <p><em></em><p>
+        <p>¯\_(ツ)_/¯<p>
     </div>
 </div>
