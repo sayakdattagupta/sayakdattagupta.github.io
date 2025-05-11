@@ -8,36 +8,26 @@ title: Home
 
 ## ...is no longer an internet peasant!
 
-aka, this is **my** site. <br><br>
-In an ever-growing internet full of slop, I have decided to cut to the chase and become landed gentry on the internet.
-
-_The Internet doesn't exist purely for consumption._
+aka, this is **my** site. <br>
+In an ever-growing internet full of slop, I have decided to cut to the chase and become [landed gentry on the internet](https://landchad.net/).
 
 ```assembly
-section     .text
+global _start
 
-extern printf
-global      _start
+section .data
+msg db 'Hi!',0x0a
+len equ $ - msg
 
+section .text
 _start:
-
-    mov     edx,len
-    mov     ecx,msg
-    mov     ebx,1
-    mov     eax,4
-    int     0x80
-
-    mov     eax,1
-    int     0x80
-
-section     .data
-
-msg     db  'Hi!',10
-len     equ $ - msg
+    mov edx,len
+    mov ecx,msg
+    mov ebx,1
+    mov eax,4
+    int 0x80
+    mov eax,1
+    mov ebx,0
+    int 0x80
 ```
-
-_I barely know what any of that means._
-
-This site has (will have) math, science, programming and my thoughts.
 
 Check out my [reading list!](reading/)

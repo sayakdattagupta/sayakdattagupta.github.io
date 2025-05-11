@@ -34,38 +34,36 @@
 <p><a href="https://github.com/sayakdattagupta/sayakdattagupta.github.io"><img src="https://avatars.githubusercontent.com/u/105037211?v=4" style="max-width:20%;min-width:40px;float:right;border-radius:50%;" alt="Github repo" /></a></p>
 <h1 id="sayak-dattagupta">Sayak Dattagupta</h1>
 <h2 id="is-no-longer-an-internet-peasant">&hellip;is no longer an internet peasant!</h2>
-<p>aka, this is <strong>my</strong> site. <br><br>
-In an ever-growing internet full of slop, I have decided to cut to the chase and become landed gentry on the internet.</p>
-<p><em>The Internet doesn&rsquo;t exist purely for consumption.</em></p>
-<pre><code class="language-assembly">section     .text
+<p>aka, this is <strong>my</strong> site. <br>
+In an ever-growing internet full of slop, I have decided to cut to the chase and become <a href="https://landchad.net/">landed gentry on the internet</a>.</p>
+<pre><code class="language-assembly">global _start
 
-extern printf
-global      _start
+section .data
+msg db 'Hi!',0x0a
+len equ $ - msg
 
+section .text
 _start:
-
-    mov     edx,len
-    mov     ecx,msg
-    mov     ebx,1
-    mov     eax,4
-    int     0x80
-
-    mov     eax,1
-    int     0x80
-
-section     .data
-
-msg     db  'Hi!',10
-len     equ $ - msg
+    mov edx,len
+    mov ecx,msg
+    mov ebx,1
+    mov eax,4
+    int 0x80
+    mov eax,1
+    mov ebx,0
+    int 0x80
 </code></pre>
-<p><em>I barely know what any of that means.</em></p>
-<p>This site has (will have) math, science, programming and my thoughts.</p>
 <p>Check out my <a href="reading/">reading list!</a></p>
 
 
 <ul>
   
   
+  
+  <li>
+    <span class="date">2025/05/11</span>
+    <a href="/post/2025/05/11/subscribe-to-some-rss-feeds/">Subscribe to some RSS Feeds</a>
+  </li>
   
   <li>
     <span class="date">2025/05/08</span>
