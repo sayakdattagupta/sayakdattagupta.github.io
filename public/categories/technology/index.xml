@@ -4,23 +4,27 @@
     <title>Technology on Sayak Dattagupta</title>
     <link>https://sayakdattagupta.github.io/categories/technology/</link>
     <description>Recent content in Technology on Sayak Dattagupta</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sayakdattagupta.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakdattagupta.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Subscribe to some RSS Feeds</title>
       <link>https://sayakdattagupta.github.io/post/2025/05/11/subscribe-to-some-rss-feeds/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://sayakdattagupta.github.io/post/2025/05/11/subscribe-to-some-rss-feeds/</guid>
-      <description>&lt;p&gt;RSS (&amp;lsquo;Really Simple Syndication&amp;rsquo;) feeds are an excellent way to stay up-to-date with recent posts on a website that supports them. Basically, think of it as a newsletter or notifier, but without the bloat, and with the added advantage of (usually) being able to read the said article in it&amp;rsquo;s entirety.&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;To get started with &amp;ldquo;subscribing&amp;rdquo; to RSS feeds, you simply need a RSS reader. I recommend &lt;a href=&#34;https://github.com/spacecowboy/Feeder&#34;&gt;Feeder&lt;/a&gt; (I would prefer you use F-Droid, or Droidify, to install it, instead of the Play Store) on Android.&lt;br&gt;&lt;/p&gt;</description>
+      <description>RSS (&amp;lsquo;Really Simple Syndication&amp;rsquo;) feeds are an excellent way to stay up-to-date with recent posts on a website that supports them. Basically, think of it as a newsletter or notifier, but without the bloat, and with the added advantage of (usually) being able to read the said article in it&amp;rsquo;s entirety. To get started with &amp;ldquo;subscribing&amp;rdquo; to RSS feeds, you simply need a RSS reader. I recommend Feeder (I would prefer you use F-Droid, or Droidify, to install it, instead of the Play Store) on Android.</description>
     </item>
+    
     <item>
       <title>Shun YouTube on Android, use NewPipe</title>
       <link>https://sayakdattagupta.github.io/post/2025/05/08/shun-youtube-on-android-use-newpipe/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://sayakdattagupta.github.io/post/2025/05/08/shun-youtube-on-android-use-newpipe/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://newpipe.net/&#34;&gt;NewPipe&lt;/a&gt; is a libre (Free, with a capitalized &amp;lsquo;F&amp;rsquo;) frontend for YouTube which runs on Android devices.&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;The inconvenience, data collection, and speed issues of YouTube had bothered me for quite a while before I finally decided to switch to an open-source, preferably Free, alternative. It does have a trending tab, though, and the last time I checked, it couldn&amp;rsquo;t be turned off. However, this isn&amp;rsquo;t a huge issue since recurring MrBeast content isn&amp;rsquo;t very tempting anyway.&#xA;&lt;br&gt;&lt;/p&gt;</description>
+      <description>NewPipe is a libre (Free, with a capitalized &amp;lsquo;F&amp;rsquo;) frontend for YouTube which runs on Android devices.
+The inconvenience, data collection, and speed issues of YouTube had bothered me for quite a while before I finally decided to switch to an open-source, preferably Free, alternative. It does have a trending tab, though, and the last time I checked, it couldn&amp;rsquo;t be turned off. However, this isn&amp;rsquo;t a huge issue since recurring MrBeast content isn&amp;rsquo;t very tempting anyway.</description>
     </item>
+    
   </channel>
 </rss>

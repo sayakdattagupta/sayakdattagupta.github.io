@@ -6,86 +6,162 @@ layout: reading-list
 
 Here are some books that I am reading/have read. This list is incomplete, and doesn't have plenty of books that I have read, but I will keep updating it whenever I want to.
 
-## 2024
+<h2 style="text-align: center;">2024</h2>
 
 <div class="bookshelf">
-      <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9781471146725-L.jpg" class="cover">
-        <p><em>An excellent biography.</em><p>
-      </div>
-      <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780141441825-L.jpg" class="cover">
-        <p><em>An excellent biography of the world.</em><p>
-      </div>
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9781471146725-L.jpg" class="cover" alt="Shoe Dog cover">
+    <p>
+      <strong>Published:</strong> 2016<br>
+      <em>"A candid and riveting memoir by Nike co‑founder Phil Knight, recounting the company’s scrappy origins and relentless ambition."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> An excellent biography.
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780141441825-L.jpg" class="cover" alt="A Short History of the World">
+    <p>
+      <strong>Published:</strong> 1922<br>
+      <em>"H. G. Wells distills the story of humanity into an accessible journey from prehistory to the modern age."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> An excellent biography of the world.
+    </p>
+  </div>
 </div>
 
-## 2023
+<h2 style="text-align: center;">2023</h2>
 
 <div class="bookshelf">
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780142000670-L.jpg" class="cover">
-        <p><em>Another classic by Steinbeck.</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780465023820-L.jpg" class="cover">
-        <p><em>A book on Physics that isn't a textbook.</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780143128564-L.jpg" class="cover">
-        <p><em>This....</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9781861972781-L.jpg" class="cover">
-        <p><em>...and this.</em><p>
-    </div>
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780142000670-L.jpg" class="cover" alt="Of Mice and Men">
+    <p>
+      <strong>Published:</strong> 1937<br>
+      <em>"A touching tale of two displaced laborers chasing the American dream—beautiful, tragic, and unforgettable."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> Another classic by Steinbeck.
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780465023820-L.jpg" class="cover" alt="The Feynman Lectures">
+    <p>
+      <strong>Published:</strong> 1963<br>
+      <em>"Feynman brings physics alive with unmatched clarity and wit in this collection of foundational lectures."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> A book on Physics that isn't a textbook.
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780143128564-L.jpg" class="cover" alt="Macbeth (Pelican)">
+    <p>
+      <strong>Published:</strong> 1623<br>
+      <em>"A haunting tale of ambition and guilt, Shakespeare's darkest tragedy grips the reader with every line."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> This....
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9781861972781-L.jpg" class="cover" alt="48 Laws of Power">
+    <p>
+      <strong>Published:</strong> 1998<br>
+      <em>"A controversial yet compelling breakdown of the principles of influence and dominance across history."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> ...and this.
+    </p>
+  </div>
 </div>
 
-## 2022
+<h2 style="text-align: center;">2022</h2>
 
 <div class="bookshelf">
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780142437902-L.jpg" class="cover">
-        <p><em><b>The</b> War.</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780143129486-L.jpg" class="cover">
-        <p><em>The great American classic.</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780141396545-L.jpg" class="cover">
-        <p><em>Obligatory for School.</em><p>
-    </div>
-        <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg" class="cover">
-        <p><em>Because nearly everyone has read it.</em><p>
-    </div>
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780142437902-L.jpg" class="cover" alt="Storm of Steel">
+    <p>
+      <strong>Published:</strong> 1920<br>
+      <em>"One of the most visceral accounts of World War I, blending brutality with poetic detachment."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> The War.
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780143129486-L.jpg" class="cover" alt="East of Eden">
+    <p>
+      <strong>Published:</strong> 1952<br>
+      <em>"Steinbeck's biblical epic about family, morality, and identity in California's Salinas Valley."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> The great American classic.
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780141396545-L.jpg" class="cover" alt="Merchant of Venice">
+    <p>
+      <strong>Published:</strong> 1600<br>
+      <em>"A timeless play about justice, mercy, and revenge, still resonating through centuries."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> Obligatory for School.
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg" class="cover" alt="Sapiens">
+    <p>
+      <strong>Published:</strong> 2011<br>
+      <em>"An extraordinary narrative of how Homo sapiens came to dominate the world, questioning what it means to be human."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> Because nearly everyone has read it.
+    </p>
+  </div>
 </div>
 
-## 2021
+<h2 style="text-align: center;">2021</h2>
 
 <div class="bookshelf">
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780446569903-L.jpg" class="cover">
-        <p><em>and I am his fan.</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780099574750 -L.jpg" class="cover">
-        <p><em>...</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780007257775-L.jpg" class="cover">
-        <p><em>...</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780062127242-L.jpg" class="cover">
-        <p><em>...</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9780767925365-L.jpg" class="cover">
-        <p><em>it was a phase.</em><p>
-    </div>
-    <div class="book">
-        <img src="https://covers.openlibrary.org/b/isbn/9781416573609-L.jpg" class="cover">
-        <p>¯\_(ツ)_/¯<p>
-    </div>
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780446569903-L.jpg" class="cover" alt="I Am Ozzy">
+    <p>
+      <strong>Published:</strong> 2010<br>
+      <em>"A wild, chaotic memoir by the Prince of Darkness himself—hilarious, profane, and occasionally profound."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> and I am his fan.
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780099574750-L.jpg" class="cover" alt="Rod: The Autobiography">
+    <p>
+      <strong>Published:</strong> 2012<br>
+      <em>"A funny, self-aware look into the life of a music icon, full of personality and charm."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> ...
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780007257775-L.jpg" class="cover" alt="Macbeth (Pocket Edition)">
+    <p>
+      <strong>Published:</strong> Original 1623 (this ed. 2007)<br>
+      <em>"A tragic spiral into madness and ambition, condensed into an intense pocket read."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> ...
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780062127242-L.jpg" class="cover">
+    <p>
+      <strong>Published:</strong> 2013<br>
+      <em>"An insightful and reflective modern narrative of self-improvement and loss."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> ...
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9780767925365-L.jpg" class="cover">
+    <p>
+      <strong>Published:</strong> 2005<br>
+      <em>"A controversial dive into the world of pickup artists, revealing the psychological toll behind the mask."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> it was a phase.
+    </p>
+  </div>
+
+  <div class="book">
+    <img src="https://covers.openlibrary.org/b/isbn/9781416573609-L.jpg" class="cover">
+    <p>
+      <strong>Published:</strong> 2009<br>
+      <em>"A modern memoir of growth, identity, and reinvention in the face of adversity."</em><br><br>
+      <strong><em>My Thoughts:</em></strong> ¯\_(ツ)_/¯
+    </p>
+  </div>
 </div>

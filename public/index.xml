@@ -4,37 +4,51 @@
     <title>Home on Sayak Dattagupta</title>
     <link>https://sayakdattagupta.github.io/</link>
     <description>Recent content in Home on Sayak Dattagupta</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sayakdattagupta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakdattagupta.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Subscribe to some RSS Feeds</title>
       <link>https://sayakdattagupta.github.io/post/2025/05/11/subscribe-to-some-rss-feeds/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://sayakdattagupta.github.io/post/2025/05/11/subscribe-to-some-rss-feeds/</guid>
-      <description>&lt;p&gt;RSS (&amp;lsquo;Really Simple Syndication&amp;rsquo;) feeds are an excellent way to stay up-to-date with recent posts on a website that supports them. Basically, think of it as a newsletter or notifier, but without the bloat, and with the added advantage of (usually) being able to read the said article in it&amp;rsquo;s entirety.&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;To get started with &amp;ldquo;subscribing&amp;rdquo; to RSS feeds, you simply need a RSS reader. I recommend &lt;a href=&#34;https://github.com/spacecowboy/Feeder&#34;&gt;Feeder&lt;/a&gt; (I would prefer you use F-Droid, or Droidify, to install it, instead of the Play Store) on Android.&lt;br&gt;&lt;/p&gt;</description>
+      <description>RSS (&amp;lsquo;Really Simple Syndication&amp;rsquo;) feeds are an excellent way to stay up-to-date with recent posts on a website that supports them. Basically, think of it as a newsletter or notifier, but without the bloat, and with the added advantage of (usually) being able to read the said article in it&amp;rsquo;s entirety. To get started with &amp;ldquo;subscribing&amp;rdquo; to RSS feeds, you simply need a RSS reader. I recommend Feeder (I would prefer you use F-Droid, or Droidify, to install it, instead of the Play Store) on Android.</description>
     </item>
+    
     <item>
       <title>Shun YouTube on Android, use NewPipe</title>
       <link>https://sayakdattagupta.github.io/post/2025/05/08/shun-youtube-on-android-use-newpipe/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://sayakdattagupta.github.io/post/2025/05/08/shun-youtube-on-android-use-newpipe/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://newpipe.net/&#34;&gt;NewPipe&lt;/a&gt; is a libre (Free, with a capitalized &amp;lsquo;F&amp;rsquo;) frontend for YouTube which runs on Android devices.&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;The inconvenience, data collection, and speed issues of YouTube had bothered me for quite a while before I finally decided to switch to an open-source, preferably Free, alternative. It does have a trending tab, though, and the last time I checked, it couldn&amp;rsquo;t be turned off. However, this isn&amp;rsquo;t a huge issue since recurring MrBeast content isn&amp;rsquo;t very tempting anyway.&#xA;&lt;br&gt;&lt;/p&gt;</description>
+      <description>NewPipe is a libre (Free, with a capitalized &amp;lsquo;F&amp;rsquo;) frontend for YouTube which runs on Android devices.
+The inconvenience, data collection, and speed issues of YouTube had bothered me for quite a while before I finally decided to switch to an open-source, preferably Free, alternative. It does have a trending tab, though, and the last time I checked, it couldn&amp;rsquo;t be turned off. However, this isn&amp;rsquo;t a huge issue since recurring MrBeast content isn&amp;rsquo;t very tempting anyway.</description>
     </item>
+    
     <item>
       <title>About Me</title>
       <link>https://sayakdattagupta.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://sayakdattagupta.github.io/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The following is pulled from my Linkedin:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&#xA;I am a high school senior and a part-time amateur programmer with skills in Unity Game Engine (C#), C with SDL, Python, and more. I have a decent understanding of x86 Assembly (ASM) and am comfortable using Linux, having &amp;ldquo;daily-ed&amp;rdquo; an Arch install and using Kali Linux&amp;rsquo;s pentesting suite. I also have experience with Adobe Premiere Pro, Photoshop, and Blender.&lt;/p&gt;&#xA;&lt;p&gt;Debating has always sparked my interest, and I’ve been an active member of the Senior School Debate Club. I’ve delivered multiple presentations on science and engineering topics, such as Cold Fusion Theory and ICE (Otto and Atkinson Cycles), making me somewhat of a science educator in the process.&lt;/p&gt;</description>
+      <description>The following is pulled from my Linkedin:
+I am a high school senior and a part-time amateur programmer with skills in Unity Game Engine (C#), C with SDL, Python, and more. I have a decent understanding of x86 Assembly (ASM) and am comfortable using Linux, having &amp;ldquo;daily-ed&amp;rdquo; an Arch install and using Kali Linux&amp;rsquo;s pentesting suite. I also have experience with Adobe Premiere Pro, Photoshop, and Blender.
+Debating has always sparked my interest, and I’ve been an active member of the Senior School Debate Club.</description>
     </item>
+    
     <item>
       <title>My Reading List</title>
       <link>https://sayakdattagupta.github.io/reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://sayakdattagupta.github.io/reading/</guid>
-      <description>&lt;p&gt;Here are some books that I am reading/have read. This list is incomplete, and doesn&amp;rsquo;t have plenty of books that I have read, but I will keep updating it whenever I want to.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;div class=&#34;bookshelf&#34;&gt;&#xA;      &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9781471146725-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;An excellent biography.&lt;/em&gt;&lt;p&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780141441825-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;An excellent biography of the world.&lt;/em&gt;&lt;p&gt;&#xA;      &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;&#xA;&lt;div class=&#34;bookshelf&#34;&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780142000670-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;Another classic by Steinbeck.&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780465023820-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;A book on Physics that isn&#39;t a textbook.&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780143128564-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;This....&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9781861972781-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;...and this.&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;&#xA;&lt;div class=&#34;bookshelf&#34;&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780142437902-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;&lt;b&gt;The&lt;/b&gt; War.&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780143129486-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;The great American classic.&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780141396545-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;Obligatory for School.&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;        &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;Because nearly everyone has read it.&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;&#xA;&lt;div class=&#34;bookshelf&#34;&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780446569903-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;and I am his fan.&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780099574750 -L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;...&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780007257775-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;...&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780062127242-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;...&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9780767925365-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;&lt;em&gt;it was a phase.&lt;/em&gt;&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;book&#34;&gt;&#xA;        &lt;img src=&#34;https://covers.openlibrary.org/b/isbn/9781416573609-L.jpg&#34; class=&#34;cover&#34;&gt;&#xA;        &lt;p&gt;¯\_(ツ)_/¯&lt;p&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+      <description>Here are some books that I am reading/have read. This list is incomplete, and doesn&amp;rsquo;t have plenty of books that I have read, but I will keep updating it whenever I want to.
+2024 Published: 2016
+&#34;A candid and riveting memoir by Nike co‑founder Phil Knight, recounting the company’s scrappy origins and relentless ambition.&#34;
+My Thoughts: An excellent biography. Published: 1922
+&#34;H. G. Wells distills the story of humanity into an accessible journey from prehistory to the modern age.</description>
     </item>
+    
   </channel>
 </rss>
