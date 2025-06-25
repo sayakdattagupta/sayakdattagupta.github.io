@@ -103,7 +103,7 @@ Here are some books that I am reading/have read. This list is incomplete, and do
     <p>
       <strong>Published:</strong> 2011<br>
       <em>"An extraordinary narrative of how Homo sapiens came to dominate the world, questioning what it means to be human."</em><br><br>
-      <strong><em>My Thoughts:</em></strong> Because nearly everyone has read it.
+      <strong><em>My Thoughts:</em></strong> A good read.
     </p>
   </div>
 </div>
@@ -132,7 +132,7 @@ Here are some books that I am reading/have read. This list is incomplete, and do
   <div class="book">
     <img src="https://covers.openlibrary.org/b/isbn/9780007257775-L.jpg" class="cover" alt="Macbeth (Pocket Edition)">
     <p>
-      <strong>Published:</strong> Original 1623 (this ed. 2007)<br>
+      <strong>Published:</strong> 2007<br>
       <em>"A tragic spiral into madness and ambition, condensed into an intense pocket read."</em><br><br>
       <strong><em>My Thoughts:</em></strong> ...
     </p>
@@ -142,7 +142,7 @@ Here are some books that I am reading/have read. This list is incomplete, and do
     <img src="https://covers.openlibrary.org/b/isbn/9780062127242-L.jpg" class="cover">
     <p>
       <strong>Published:</strong> 2013<br>
-      <em>"An insightful and reflective modern narrative of self-improvement and loss."</em><br><br>
+      <em>"Townshend reflects on music, identity, and the contradictions of fame with brutal honesty."</em><br><br>
       <strong><em>My Thoughts:</em></strong> ...
     </p>
   </div>
@@ -151,7 +151,7 @@ Here are some books that I am reading/have read. This list is incomplete, and do
     <img src="https://covers.openlibrary.org/b/isbn/9780767925365-L.jpg" class="cover">
     <p>
       <strong>Published:</strong> 2005<br>
-      <em>"A controversial dive into the world of pickup artists, revealing the psychological toll behind the mask."</em><br><br>
+      <em>"A candid and often painful self-portrait of a musical legend battling addiction, fame, and grief."</em><br><br>
       <strong><em>My Thoughts:</em></strong> it was a phase.
     </p>
   </div>
@@ -159,8 +159,8 @@ Here are some books that I am reading/have read. This list is incomplete, and do
   <div class="book">
     <img src="https://covers.openlibrary.org/b/isbn/9781416573609-L.jpg" class="cover">
     <p>
-      <strong>Published:</strong> 2009<br>
-      <em>"A modern memoir of growth, identity, and reinvention in the face of adversity."</em><br><br>
+      <strong>Published:</strong> 1651<br>
+      <em>"Hobbes argues for a powerful sovereign to prevent chaos in a world driven by self-interest."</em><br><br>
       <strong><em>My Thoughts:</em></strong> ¯\_(ツ)_/¯
     </p>
   </div>

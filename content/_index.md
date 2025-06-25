@@ -2,14 +2,10 @@
 title: Home
 ---
 
-[<img src="https://avatars.githubusercontent.com/u/105037211?v=4" style="max-width:20%;min-width:40px;float:right;border-radius:50%;" alt="Github repo" />](https://github.com/sayakdattagupta/sayakdattagupta.github.io)
-
 # Sayak Dattagupta
 
-## ...is no longer an internet peasant!
-
-aka, this is **my** site. <br>
-In an ever-growing internet full of slop, I have decided to cut to the chase and become [landed gentry on the internet](https://landchad.net/).
+*"The internet was made for creating things, not just mindlessly scrolling."*  
+— Luke Smith
 
 ```assembly
 global _start

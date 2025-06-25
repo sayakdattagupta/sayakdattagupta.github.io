@@ -33,13 +33,11 @@ menu:
       weight: 3
     - name: Tags
       url: "tags/"
-      weight: 4
-    - name: Subscribe
-      url: "index.xml"
+      weight: 4    
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Sayak Dattagupta](https://sayakdattagupta.github.io) 2024 -- {Year} | [Github](https://github.com/sayakdattagupta) | [Linkedin](https://www.linkedin.com/in/sayak-dattagupta-79ab6734b/)"
+  footer: "&copy; [Sayak Dattagupta](https://sayakdattagupta.github.io) 2024 -- {Year} | [Subscribe](index.xml) | [Github](https://github.com/sayakdattagupta) | [Linkedin](https://www.linkedin.com/in/sayak-dattagupta-79ab6734b/)"
 
 markup:
   highlight:
