@@ -22,6 +22,14 @@ body {
   color: var(--text-color);
 }
 
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+a:visited {
+  color: var(--link-color);
+}
+
 /* Header and footer areas */
 .menu {
   padding: 0;
