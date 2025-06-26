@@ -7,6 +7,8 @@ title: Home
 _"The internet was made for creating things, not just mindlessly scrolling."_  
 — Luke Smith
 
+I am Sayak Dattagupta. Here are my [skills](skills/).
+
 ```assembly
 global _start
 
