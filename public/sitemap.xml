@@ -56,7 +56,15 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://sayakdattagupta.github.io/movies/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://sayakdattagupta.github.io/reading/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://sayakdattagupta.github.io/skills/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

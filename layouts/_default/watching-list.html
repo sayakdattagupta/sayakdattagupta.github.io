@@ -1,0 +1,55 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+  <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+  {{ with .Params.author }}
+  <h2 class="author">{{ . }}</h2>
+  {{ end }} {{ if (gt .Params.date 0) }}
+  <h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>
+  {{ end }}
+</div>
+
+<main>
+  {{ .Content }} {{ $data := .Site.Data.moviesP }} {{ $years := slice "2025"
+  "2024" }} {{ range $i, $year := $years }}
+  <h2 style="text-align: center">{{ $year }}</h2>
+  <div class="shelf">
+    {{ range index $data $year }}
+    <div class="movie">
+      <a href="https://www.imdb.com/title/{{ .id }}" target="_blank">
+        <img class="cover" src="{{ .poster }}" />
+      </a>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</main>
+
+{{ partial "footer.html" . }}
+
+<style>
+  .shelf {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+
+  .movie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .cover {
+    max-width: 12rem;
+    object-fit: contain;
+    height: auto;
+  }
+  @media (max-width: 640px) {
+    .shelf {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .cover {
+      max-width: 8rem;
+    }
+  }
+</style>

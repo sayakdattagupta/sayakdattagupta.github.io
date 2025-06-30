@@ -28,4 +28,4 @@ _start:
     int 0x80
 ```
 
-Check out my [reading list!](reading/)
+Check out my [reading list!](reading/) and the [movies and TV shows I have watched](movies/).
