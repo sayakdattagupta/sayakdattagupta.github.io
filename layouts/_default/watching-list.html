@@ -10,8 +10,8 @@
 
 <main>
   {{ .Content }} {{ $data := .Site.Data.moviesP }} {{ $years := slice "2025"
-  "2024" }} {{ range $i, $year := $years }}
-  <h2 style="text-align: center">{{ $year }}</h2>
+  "2024" "2023" "2022" "2021" "2020" }} {{ range $i, $year := $years }}
+  <h1 style="text-align: center">{{ $year }}</h1>
   <div class="shelf">
     {{ range index $data $year }}
     <div class="movie">
@@ -29,7 +29,7 @@
 <style>
   .shelf {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
   }
 
@@ -40,16 +40,26 @@
   }
 
   .cover {
-    max-width: 12rem;
+    max-width: 12em;
     object-fit: contain;
     height: auto;
   }
-  @media (max-width: 640px) {
+
+  .cover:hover {
+    opacity: 50%;
+  }
+
+  @media (max-width: 970px) {
+    .shelf {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  @media (max-width: 700px) {
     .shelf {
       grid-template-columns: repeat(2, 1fr);
     }
     .cover {
-      max-width: 8rem;
+      max-width: 8em;
     }
   }
 </style>
