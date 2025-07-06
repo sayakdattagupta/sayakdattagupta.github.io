@@ -1,0 +1,55 @@
+{{ partial "header.html" . }}
+<div class="mPage">
+  <div class="lSide">
+    <div class="article-meta">
+      <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+      {{ with .Params.author }}
+      <h2 class="author">{{ . }}</h2>
+      {{ end }} {{ if (gt .Params.date 0) }}
+      <h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>
+      {{ end }}
+    </div>
+    <main>{{ .Content }}</main>
+  </div>
+  <div class="rSide">
+    More Posts:
+    <ul style="padding-left: 1%; margin-top: 0; list-style-position: inside">
+      {{ $current := .Permalink }} {{ range first 10 (where (where
+      .Site.RegularPages "Section" "!=" "") "Permalink" "ne" $current) }}
+      <li style="margin: 0">
+        <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+        <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}
+
+<style>
+  .mPage {
+    display: flex;
+  }
+  .lSide {
+    flex: 7;
+  }
+  .rSide {
+    padding-left: 1vw;
+    flex: 3;
+  }
+  @media (max-width: 640px) {
+    .mPage {
+      display: block;
+    }
+    .lSide {
+      flex: none;
+      border-bottom: solid white;
+    }
+    .rSide {
+      padding-top: 1vw;
+      padding-left: 0;
+      flex: none;
+    }
+  }
+</style>
