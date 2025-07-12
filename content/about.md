@@ -10,4 +10,4 @@ Debating has always sparked my interest, and I’ve been an active member of the
 
 Currently, I’m interested in pursuing my undergraduate studies in mechanical or aerospace engineering.
 
-**This site is made in Hugo, using the theme hugo-xmin.** It has further been tastefully modified by me in order to incorporate responsiveness and a reading list.
+**This site is made in Hugo, using the theme hugo-xmin. It has further been tastefully modified by me – it now has a dark color theme, a different article layout, and it incorporates responsiveness, a reading list, and a movie-watching list that loads from a JSON (I have not included the Python script that generates it in my source).**
