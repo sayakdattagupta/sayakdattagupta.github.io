@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>open-source on Sayak Dattagupta</title>
-    <link>https://sayakdattagupta.github.io/tags/open-source/</link>
-    <description>Recent content in open-source on Sayak Dattagupta</description>
+    <title>projects on Sayak Dattagupta</title>
+    <link>https://sayakdattagupta.github.io/tags/projects/</link>
+    <description>Recent content in projects on Sayak Dattagupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakdattagupta.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakdattagupta.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LibrExam (the birth of)</title>
       <link>https://sayakdattagupta.github.io/post/2025/07/17/librexam-the-birth-of/</link>
@@ -17,16 +17,6 @@
 Not anymore.
 Goodbye legacy, propeitary, limited-in-scope-and-content test taking software. Welcome LibrExam. Welcome its AGPL-3 License (I am looking at you, Microsoft).
 The fundamental idea behind LibrExam is that it&amp;rsquo;s kind of decentralised. Obviously, using GitHub as a content-sharing-system, though novel, makes it centralised - but users always have the ability to share the JSON (yes, tests are written out in JSONs) file of their test; Moving away from third-party or self-hosted images is a different issue, however - I am still yet to figure that out (LibrExam is very, VERY much in alpha)</description>
-    </item>
-    
-    <item>
-      <title>Shun YouTube on Android, use NewPipe</title>
-      <link>https://sayakdattagupta.github.io/post/2025/05/08/shun-youtube-on-android-use-newpipe/</link>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://sayakdattagupta.github.io/post/2025/05/08/shun-youtube-on-android-use-newpipe/</guid>
-      <description>NewPipe is a libre (Free, with a capitalized &amp;lsquo;F&amp;rsquo;) frontend for YouTube which runs on Android devices.
-The inconvenience, data collection, and speed issues of YouTube had bothered me for quite a while before I finally decided to switch to an open-source, preferably Free, alternative. It does have a trending tab, though, and the last time I checked, it couldn&amp;rsquo;t be turned off. However, this isn&amp;rsquo;t a huge issue since recurring MrBeast content isn&amp;rsquo;t very tempting anyway.</description>
     </item>
     
   </channel>

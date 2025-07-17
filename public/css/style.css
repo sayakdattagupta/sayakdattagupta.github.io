@@ -11,6 +11,7 @@
 html {
   background-color: var(--bg-color);
   color: var(--text-color);
+  font-size: 120%;
 }
 
 body {
@@ -122,7 +123,7 @@ tr:nth-child(even) {
 /* Responsive design */
 @media (min-width: 640px) {
   body {
-    max-width: 80%;
+    max-width: 75%;
   }
   img,
   iframe,
