@@ -11,7 +11,7 @@
 html {
   background-color: var(--bg-color);
   color: var(--text-color);
-  font-size: 120%;
+  font-size: 110%;
 }
 
 body {
@@ -124,6 +124,9 @@ tr:nth-child(even) {
 @media (min-width: 640px) {
   body {
     max-width: 75%;
+  }
+  html {
+    font-size: 120%;
   }
   img,
   iframe,
