@@ -23,9 +23,9 @@ Goodbye legacy, propeitary, limited-in-scope-and-content test taking software. W
 
 The fundamental idea behind LibrExam is that it's kind of decentralised. Obviously, using GitHub as a content-sharing-system, though novel, makes it centralised - but users always have the ability to share the JSON (yes, tests are written out in JSONs) file of their test; Moving away from third-party or self-hosted images is a different issue, however - I am still yet to figure that out (LibrExam is very, VERY much in alpha)
 
-Now, to be absolutely honest, I had toyed around with this LibrExam-idea for quite a while before finally starting to work on it - mostly because competiitve examinations had been taking the lions share of my blood pressure (bad), the prep for which had made me use quite a few propreitary quiz platforms (torture).
+Now, to be absolutely honest, I had toyed with this LibrExam idea for quite a while before finally starting to work on it—mostly because competitive examinations had been taking the lion's share of my blood pressure (bad), the preparation for which had made me use several proprietary quiz platforms (torture).
 
-Safe to say: they are all going down.
+Safe to say: All of those platforms are coming down.
 
 ![reaction](/assets/wojak-computer-crying.png)
 
@@ -33,4 +33,4 @@ Safe to say: they are all going down.
 A 73% accurate representation of their reaction to LibrExam.
 </p>
 
-\*P.S.: Microsoft - please let me know if you want to buy this for a 1 million dollar fee.
+\*P.S.: Dear Microsoft - please let me know if you want to buy me out for a 1 million dollar fee.

@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-I like writing _useful_ programs, peddling FOSS, anything mechanical, working-out (calisthenics, for the time being), making music, consooming movies, and being opinionated.
+I like writing _useful_ programs, peddling FOSS, anything mechanical, working-out, making music, consooming movies, and being opinionated.
 
 **The following is pulled from my Linkedin:**
 
