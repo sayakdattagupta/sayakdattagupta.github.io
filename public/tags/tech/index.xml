@@ -14,9 +14,9 @@
       
       <guid>https://sayakdattagupta.github.io/post/2025/07/17/librexam-the-birth-of/</guid>
       <description>Mock tests are a global phenomenon. Every student — from American AP Physics 2 bros to Chinese Gaokao tryhards to Indian JEE Advanced sweats — takes them. And they usually cost a pretty penny.
-Not anymore.
-Goodbye legacy, propeitary, limited-in-scope-and-content test taking software. Welcome LibrExam. Welcome its AGPL-3 License (I am looking at you, Microsoft).
-The fundamental idea behind LibrExam is that it&amp;rsquo;s kind of decentralised. Obviously, using GitHub as a content-sharing-system, though novel, makes it centralised - but users always have the ability to share the JSON (yes, tests are written out in JSONs) file of their test; Moving away from third-party or self-hosted images is a different issue, however - I am still yet to figure that out (LibrExam is very, VERY much in alpha)</description>
+Breaking Bad the mock examinations cartel. Not anymore.
+Goodbye legacy, propeitary, limited-in-scope-and-content test taking software. Welcome LibrExam. Welcome its AGPL-3 License (I am looking at you, Microsoft*).
+The fundamental idea behind LibrExam is that it&amp;rsquo;s kind of decentralised.</description>
     </item>
     
     <item>

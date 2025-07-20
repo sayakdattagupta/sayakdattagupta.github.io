@@ -14,9 +14,9 @@
       
       <guid>https://sayakdattagupta.github.io/post/2025/07/17/librexam-the-birth-of/</guid>
       <description>Mock tests are a global phenomenon. Every student — from American AP Physics 2 bros to Chinese Gaokao tryhards to Indian JEE Advanced sweats — takes them. And they usually cost a pretty penny.
-Not anymore.
-Goodbye legacy, propeitary, limited-in-scope-and-content test taking software. Welcome LibrExam. Welcome its AGPL-3 License (I am looking at you, Microsoft).
-The fundamental idea behind LibrExam is that it&amp;rsquo;s kind of decentralised. Obviously, using GitHub as a content-sharing-system, though novel, makes it centralised - but users always have the ability to share the JSON (yes, tests are written out in JSONs) file of their test; Moving away from third-party or self-hosted images is a different issue, however - I am still yet to figure that out (LibrExam is very, VERY much in alpha)</description>
+Breaking Bad the mock examinations cartel. Not anymore.
+Goodbye legacy, propeitary, limited-in-scope-and-content test taking software. Welcome LibrExam. Welcome its AGPL-3 License (I am looking at you, Microsoft*).
+The fundamental idea behind LibrExam is that it&amp;rsquo;s kind of decentralised.</description>
     </item>
     
     <item>
@@ -44,9 +44,9 @@ The inconvenience, data collection, and speed issues of YouTube had bothered me 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sayakdattagupta.github.io/about/</guid>
-      <description>The following is pulled from my Linkedin:
-I am a high school senior and a part-time amateur programmer with skills in Unity Game Engine (C#), C with SDL, Python, and more. I have a decent understanding of x86 Assembly (ASM) and am comfortable using Linux, having &amp;ldquo;daily-ed&amp;rdquo; an Arch install and using Kali Linux&amp;rsquo;s pentesting suite. I also have experience with Adobe Premiere Pro, Photoshop, and Blender.
-Debating has always sparked my interest, and I’ve been an active member of the Senior School Debate Club.</description>
+      <description>I like writing useful programs, peddling FOSS, anything mechanical, working-out (calisthenics, for the time being), making music, consooming movies, and being opinionated.
+The following is pulled from my Linkedin:
+I am a high school senior and a part-time amateur programmer with skills in Unity Game Engine (C#), C with SDL, Python, and more. I have a decent understanding of x86 Assembly (ASM) and am comfortable using Linux, having &amp;ldquo;daily-ed&amp;rdquo; an Arch install and using Kali Linux&amp;rsquo;s pentesting suite.</description>
     </item>
     
     <item>

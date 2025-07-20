@@ -6,6 +6,7 @@
   --alt-row-bg: #1a1a1a;
   --border-color: #444;
   --link-color: #7abaff;
+  --heading-color: #fff;
 }
 
 html {
@@ -18,7 +19,7 @@ body {
   max-width: 100%;
   margin: auto;
   padding: 1em;
-  line-height: 1.5;
+  line-height: 1.75;
   background-color: var(--bg-color);
   color: var(--text-color);
 }
@@ -46,12 +47,18 @@ a:visited {
   padding: 5px;
   border-radius: 5px;
 }
+h1,
+h2,
+h3,
+strong {
+  color: var(--heading-color);
+}
 .article-meta {
-  background: var(--box-bg);
-  color: var(--text-color);
-  padding: 5px;
-  border-radius: 5px;
-  text-align: center;
+  color: var(--heading-color);
+  text-align: left;
+  line-height: 1;
+  margin-bottom: 2em;
+  margin-top: 1em;
 }
 .title {
   font-size: 1.1em;
@@ -89,7 +96,12 @@ pre code {
 img,
 iframe,
 video {
-  max-width: 70vw;
+  max-width: 70%;
+}
+.caption {
+  font-style: italic;
+  font-size: 0.95em;
+  text-align: center;
 }
 main {
   hyphens: auto;
@@ -131,6 +143,6 @@ tr:nth-child(even) {
   img,
   iframe,
   video {
-    max-width: 45vw;
+    max-width: 45%;
   }
 }

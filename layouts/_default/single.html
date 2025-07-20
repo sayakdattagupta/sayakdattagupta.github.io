@@ -4,12 +4,25 @@
     <div class="article-meta">
       <h1><span class="title">{{ .Title | markdownify }}</span></h1>
       {{ with .Params.author }}
-      <h2 class="author">{{ . }}</h2>
+      <h2 class="author">by {{ . }}</h2>
       {{ end }} {{ if (gt .Params.date 0) }}
       <h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>
+      {{ end }} {{ with .Params.categories }}
+      <h3 class="category">
+        Category: {{ range $index, $cat := . }} {{ if $index }}, {{ end }}
+        <a href="/categories/{{ $cat | urlize }}">{{ $cat }}</a>
+        {{ end }}
+      </h3>
       {{ end }}
     </div>
     <main>{{ .Content }}</main>
+    {{ with .Params.tags }}
+    <p style="color: var(--heading-color)">
+      Tags: {{ range $index, $cat := . }} {{ if $index }}, {{ end }}
+      <a href="/tags/{{ $cat | urlize }}">{{ $cat }}</a>
+      {{ end }}
+    </p>
+    {{ end }}
   </div>
   <div class="rSide">
     <h2>More Posts:</h2>
@@ -44,8 +57,7 @@
     }
     .lSide {
       flex: none;
-      border-bottom: solid white;
-      padding-bottom: 4em;
+      padding-bottom: 1em;
     }
     .rSide {
       padding-left: 0;
