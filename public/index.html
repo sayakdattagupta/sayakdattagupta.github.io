@@ -29,23 +29,6 @@
 <p><em>&ldquo;The internet was made for creating things, not just mindlessly scrolling.&rdquo;</em><br>
 — Luke Smith (I guess)</p>
 <p>I am Sayak Dattagupta. Here are my <a href="skills/">skills</a>.</p>
-<pre><code class="language-assembly">global _start
-
-section .data
-msg db 'Hi!',0x0a
-len equ $ - msg
-
-section .text
-_start:
-    mov edx,len
-    mov ecx,msg
-    mov ebx,1
-    mov eax,4
-    int 0x80
-    mov eax,1
-    mov ebx,0
-    int 0x80
-</code></pre>
 <p>Check out the <a href="reading/">books that I have read</a> and the <a href="movies/">movies and TV shows I have watched</a>.</p>
 <h2 id="my-posts">My Posts:</h2>
 
