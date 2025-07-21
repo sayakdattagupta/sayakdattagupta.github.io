@@ -6,7 +6,17 @@
     <description>Recent content in Technology on Sayak Dattagupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakdattagupta.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://sayakdattagupta.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use copyleft licensing</title>
+      <link>https://sayakdattagupta.github.io/post/2025/07/21/use-copyleft-licensing/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://sayakdattagupta.github.io/post/2025/07/21/use-copyleft-licensing/</guid>
+      <description>There is no correlation between open-source code and open relationships. But people unwise enough to use a certain kind of license can be metaphorically forced into a variation of the latter. Shocking? Keep reading.
+GPLv3 (and its SaaS equivalent, AGPLv3) is a &amp;lsquo;copyleft&amp;rsquo; license. Whenever any entity (individual or corporate) utilizes GPLv3 (or its prior iterations) licensed code in their own software, they are forced to share the codebase of the said piece of software in a similarly &amp;lsquo;free&amp;rsquo; or open-source manner — thereby maintaining &amp;lsquo;reciprocity&amp;rsquo; and ensuring that originally open-source code doesn&amp;rsquo;t get absorbed into some proprietary codebase.</description>
+    </item>
+    
     <item>
       <title>LibrExam (the birth of)</title>
       <link>https://sayakdattagupta.github.io/post/2025/07/17/librexam-the-birth-of/</link>
