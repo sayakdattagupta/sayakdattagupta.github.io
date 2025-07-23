@@ -4,7 +4,7 @@ title: Home
 
 # Sayak Dattagupta
 
-_"The internet was made for creating things, not just mindlessly scrolling."_  
+_"The internet was made for creating things, not just mindlessly scrolling."_ <br>
 — Luke Smith (I guess)
 
 I am Sayak Dattagupta. Here are my [skills](skills/).

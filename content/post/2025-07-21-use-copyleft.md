@@ -9,7 +9,7 @@ tags:
   - programming
 ---
 
-There is no correlation between open-source code and open relationships. But people unwise enough to use a certain kind of license can be metaphorically forced into a variation of the latter. Shocking? Keep reading.
+There is no correlation between open-source code and open relationships. But people unwise enough to use a certain kind of license can be metaphorically forced into a variation of the latter. Shocking? Keep reading to learn more.
 
 GPLv3 (and its SaaS equivalent, AGPLv3) is a 'copyleft' license. Whenever any entity (individual or corporate) utilizes GPLv3 (or its prior iterations) licensed code in their own software, they are forced to share the codebase of the said piece of software in a similarly 'free' or open-source manner — thereby maintaining 'reciprocity' and ensuring that originally open-source code doesn't get absorbed into some proprietary codebase.
 
