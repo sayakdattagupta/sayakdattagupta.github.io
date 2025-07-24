@@ -86,7 +86,8 @@ My Thoughts: An excellent biography. Published: 1922
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sayakdattagupta.github.io/skills/</guid>
-      <description>Programming Languages C (SDL2) C++ (SFML, SDL2) C# (for Unity) JavaScript (pure) Java (only upto the level taught at high school) Python (matplotlib, numpy, scipy, selenium, geckodriver, flask, Tkinter) Bash HTML CSS (no frameworks) Tools &amp; Systems Linux (Arch, Debian running i3&amp;amp;dwm (and other suckless software)) Jupyter Notebooks git GitHub (Pages, Workflows) Unity Game Engine Godot Vercel Vue.js flask Vite Hugo VirtualBox Others Premiere Pro Illustrator GIMP Olive (Video Editor) FL Studio Audacity GarageBand Photoshop Photopea </description>
+      <description>Here are some things that I know.
+Programming Languages C (SDL2) C++ (SFML, SDL2) C# (for Unity) JavaScript (pure, vue) Java (only upto the level taught at high school) Python (matplotlib, numpy, scipy, selenium, geckodriver, flask, Tkinter) Bash HTML and CSS (no frameworks) Tools &amp; Systems I practically only use a desktop Linux setup (Debian/Arch + i3/dwm) these days and can get along with it just fine, but I will refrain from calling Linux to be a &amp;ldquo;skill&amp;rdquo; of mine since I have no proper knowledge about things like kernel programming, yet.</description>
     </item>
     
   </channel>
