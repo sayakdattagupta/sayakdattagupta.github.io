@@ -36,7 +36,9 @@ The fundamental idea behind LibrExam is that it&amp;rsquo;s kind of decentralise
       
       <guid>https://sayakdattagupta.github.io/post/2025/05/08/shun-youtube-on-android-use-newpipe/</guid>
       <description>NewPipe is a libre (Free, with a capitalized &amp;lsquo;F&amp;rsquo;) frontend for YouTube which runs on Android devices.
-The inconvenience, data collection, and speed issues of YouTube had bothered me for quite a while before I finally decided to switch to an open-source, preferably Free, alternative. It does have a trending tab, though, and the last time I checked, it couldn&amp;rsquo;t be turned off. However, this isn&amp;rsquo;t a huge issue since recurring MrBeast content isn&amp;rsquo;t very tempting anyway.</description>
+The inconvenience, data collection, and speed issues of YouTube had bothered me for quite a while before I finally decided to switch to an open-source, preferably Free, alternative.
+With NewPipe you can:
+Avoid Ads. Save videos as actual redistributable files, like a .mp4. Play videos on the background. Avoid recommendations that are &amp;ldquo;tailor-made&amp;rdquo; by analyzing your watch history.</description>
     </item>
     
   </channel>
