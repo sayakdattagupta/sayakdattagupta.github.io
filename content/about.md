@@ -4,7 +4,7 @@ title: About Me
 
 I like writing _useful_ programs, peddling FOSS, anything mechanical, working-out, making music, "consooming" movies, and being opinionated.
 
-<img src="/assets/portrait.png" style="width:100%;max-width:300px;aspect-ratio:1;object-fit:cover;margin:auto;display:block" />
+<img src="/assets/portrait.png" style="width:100%;max-width:350px;aspect-ratio:1;object-fit:cover;margin:auto;display:block" />
 <p class="caption">
 Me, 2025
 </p>
