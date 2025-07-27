@@ -8,7 +8,25 @@
   {{ end }}
 </div>
 
-<main>{{ .Content }}</main>
+
+<main>
+  {{ .Content }}
+  {{ $data := .Site.Data.booksD }}
+  {{ $years := slice "2025" "2024" "2023" "2022" "2021" "2020" }} 
+  
+  {{ range $year := $years }}
+    {{ with index $data $year }}
+      <h1 style="text-align: center">{{ $year }}</h1>
+      <ul style="margin-left:0;padding-left:0;list-style-position: inside;">
+        {{ range $isbn, $book := . }}
+          <li>
+            <strong>{{ $book.title }}</strong> by {{ delimit $book.authors ", " }}
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+</main>
 
 {{ partial "footer.html" . }}
 

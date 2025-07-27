@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-I like writing _useful_ programs, peddling FOSS, anything mechanical, working-out, making music, "consooming" movies, and being opinionated.
+I like writing _useful_ programs, peddling FOSS, anything mechanical, working-out, making music, "consooming" movies, and being opinionated. Here is my [reading list](/reading/).
 
 <img src="/assets/portrait.png" style="width:100%;max-width:350px;aspect-ratio:1;object-fit:cover;margin:auto;display:block" />
 <p class="caption">
