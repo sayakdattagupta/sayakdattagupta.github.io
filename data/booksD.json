@@ -36,6 +36,13 @@
         "Robert Greene"
       ],
       "publish_date": "1998"
+    },
+    "9780345538987": {
+      "title": "Jurassic Park",
+      "authors": [
+        "Michael Crichton"
+      ],
+      "publish_date": "Sep 25, 2012"
     }
   },
   "2022": {
@@ -75,6 +82,13 @@
         "Alastair Smith"
       ],
       "publish_date": "2022"
+    },
+    "8172238479": {
+      "title": "The White Tiger",
+      "authors": [
+        "Aravind Adiga"
+      ],
+      "publish_date": "2010"
     }
   },
   "2021": {
@@ -102,7 +116,7 @@
     "1784286745": {
       "title": "Sherlock Holmes Collection",
       "authors": [
-        "Sir Arthur Conan Doyle"
+        "Arthur Conan Doyle"
       ],
       "publish_date": "2017"
     },
@@ -116,6 +130,7 @@
     "0007257775": {
       "title": "Slash",
       "authors": [
+        "Saul Hudson",
         "Anthony Bozza"
       ],
       "publish_date": "2008"
@@ -147,6 +162,51 @@
         "John Keay"
       ],
       "publish_date": "2000"
+    },
+    "9780947020286": {
+      "title": "Fireforce: One Man's War in the Rhodesian Light Infantry",
+      "authors": [
+        "Chris Cocks"
+      ],
+      "publish_date": "1988"
+    },
+    "9781847496508": {
+      "title": "The Lost World",
+      "authors": [
+        "Arthur Conan Doyle"
+      ],
+      "publish_date": "2017"
+    },
+    "9386021048": {
+      "title": "The Bengalis",
+      "authors": [
+        "Sudeep Chakravarti"
+      ],
+      "publish_date": "2017"
+    }
+  },
+  "2020": {
+    "0141439475": {
+      "title": "Frankenstein",
+      "authors": [
+        "Mary Shelley"
+      ],
+      "publish_date": "2003"
+    },
+    "1439170916": {
+      "title": "The Emperor of All Maladies",
+      "authors": [
+        "Siddhartha Mukherjee",
+        "Nessa Carey"
+      ],
+      "publish_date": "2011-08"
+    },
+    "9780141441023": {
+      "title": "The Island of Doctor Moreau",
+      "authors": [
+        "H. G. Wells"
+      ],
+      "publish_date": "2005"
     }
   }
 }
