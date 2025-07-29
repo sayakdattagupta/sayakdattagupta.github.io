@@ -37,7 +37,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Sayak Dattagupta](https://sayakdattagupta.github.io) 2024 -- {Year} | [Subscribe](/index.xml) | [Github](https://github.com/sayakdattagupta) | [Linkedin](https://www.linkedin.com/in/sayak-dattagupta-79ab6734b/)"
+  footer: "[Sayak Dattagupta](https://sayakdattagupta.github.io) | [Subscribe](/index.xml) | [Github](https://github.com/sayakdattagupta) | [Linkedin](https://www.linkedin.com/in/sayak-dattagupta-79ab6734b/)"
 
 markup:
   highlight:
